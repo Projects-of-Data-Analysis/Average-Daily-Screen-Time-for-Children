@@ -7,7 +7,7 @@
 
   Kaggle link: [https://www.kaggle.com/datasets/ak0212/average-daily-screen-time-for-children](https://www.kaggle.com/datasets/ak0212/average-daily-screen-time-for-children)
   
-  GitHub Repository: [https://github.com/onurdoker/Average-Daily-Screen-Time-for-Children/tree/main](https://github.com/onurdoker/Average-Daily-Screen-Time-for-Children/tree/main)
+  GitHub Repository: [https://github.com/Projects-of-Data-Analysis/Average-Daily-Screen-Time-for-Children](https://github.com/Projects-of-Data-Analysis/Average-Daily-Screen-Time-for-Children)
   
 - # Data Exploration and Insights
   The dataset was queried in various ways, and analyses were conducted under the following headings:
